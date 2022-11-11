@@ -11,3 +11,4 @@ public abstract class ChessComponent {
  
     abstract void accept(Visitor v); //implement in subclasses
 }
+ 
