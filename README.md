@@ -16,12 +16,12 @@ Helpful resources:
 | Command | [video](https://www.youtube.com/watch?v=9qA5kw8dcSU) | 2
 | Adapter | [link](https://www.geeksforgeeks.org/adapter-pattern/) | 6
 | Chain of Responsibility | [link](https://www.youtube.com/watch?v=vzCVO7B6wYw&t=526s) | 4
+| Builder | [link](https://www.youtube.com/watch?v=jAv2ZrTBXso) | 1
 
 
 next:
 > 1) memento, template, prototype, factory, abstract factory, strategy, state </br>
-> 2) builder </br>
-> 3) facade </br>
-> 4) bridge </br>
-> 5) iterator </br>
-> 6) interpreter </br>
+> 2) facade </br>
+> 3) bridge </br>
+> 4) iterator </br>
+> 5) interpreter </br>
