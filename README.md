@@ -21,9 +21,13 @@ Helpful resources:
 | Bridge | [video](https://www.youtube.com/watch?v=F1YQ7YRjttI) | 6
 | Memento | [link](https://www.newthinktank.com/2012/10/memento-design-pattern-tutorial/) | 1
 | Template | [link](https://www.newthinktank.com/2012/10/template-method-design-pattern-tutorial/) | 1
+| Prototype | [link](https://www.newthinktank.com/2012/09/prototype-design-pattern-tutorial/) | 1
+| Factory Method | [link](https://www.newthinktank.com/2012/09/factory-design-pattern-tutorial/) | 1
+| Abstract Factory | [link](https://www.newthinktank.com/2012/09/abstract-factory-design-pattern/) | 1
+| Strategy | [link](https://www.newthinktank.com/2012/08/strategy-design-pattern-tutorial/) | 2
+| State | [link](https://www.newthinktank.com/2012/10/state-design-pattern-tutorial/) | 2
 
 
 next:
-> 1) prototype, factory, abstract factory, strategy, state </br>
-> 2) iterator </br>
-> 3) interpreter </br>
+> 1) iterator </br>
+> 2) interpreter </br>
