@@ -9,7 +9,7 @@ public class BookParser implements IBookParser {
     private String book = null;
 
     public int getNumPages() {
-        return book.length();
+        return book.length(); 
     }
 
 
