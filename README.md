@@ -20,9 +20,10 @@ Helpful resources:
 | Facade | [video](https://www.youtube.com/watch?v=B1Y8fcYrz5o) | 2
 | Bridge | [video](https://www.youtube.com/watch?v=F1YQ7YRjttI) | 6
 | Memento | [link](https://www.newthinktank.com/2012/10/memento-design-pattern-tutorial/) | 1
+| Template | [link](https://www.newthinktank.com/2012/10/template-method-design-pattern-tutorial/) | 1
 
 
 next:
-> 1) memento, template, prototype, factory, abstract factory, strategy, state </br>
+> 1) prototype, factory, abstract factory, strategy, state </br>
 > 2) iterator </br>
 > 3) interpreter </br>
