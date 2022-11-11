@@ -10,6 +10,8 @@ Helpful resources:
 | Singleton | [video](https://www.youtube.com/watch?v=hUE_j6q0LTQ) | 2
 | Flyweight | [video](https://www.youtube.com/watch?v=jAv2ZrTBXso) | 7
 | Composite | [video](https://www.youtube.com/watch?v=wQndxfmPCTc) | 7
+| Decorator | [video](https://www.youtube.com/watch?v=GCraGHx6gso) | 7
+
 
 next:
 > 1) memento, template </br>
