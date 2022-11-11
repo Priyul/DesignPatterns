@@ -17,11 +17,11 @@ Helpful resources:
 | Adapter | [link](https://www.geeksforgeeks.org/adapter-pattern/) | 6
 | Chain of Responsibility | [link](https://www.youtube.com/watch?v=vzCVO7B6wYw&t=526s) | 4
 | Builder | [link](https://www.youtube.com/watch?v=jAv2ZrTBXso) | 1
+| Facade | [link](https://www.youtube.com/watch?v=B1Y8fcYrz5o) | 2
 
 
 next:
 > 1) memento, template, prototype, factory, abstract factory, strategy, state </br>
-> 2) facade </br>
-> 3) bridge </br>
-> 4) iterator </br>
-> 5) interpreter </br>
+> 2) bridge </br>
+> 3) iterator </br>
+> 4) interpreter </br>
