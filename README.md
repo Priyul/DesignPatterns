@@ -13,6 +13,7 @@ Helpful resources:
 | Decorator | [video](https://www.youtube.com/watch?v=GCraGHx6gso) | 2
 | Observer | [video](https://www.youtube.com/watch?v=_BpmfnqjgzQ) | 2
 | Mediator | [video](https://www.youtube.com/watch?v=h8prqcBDIZ8) | 2
+| Command | [video](https://www.youtube.com/watch?v=9qA5kw8dcSU) | 2
 
 
 next:
