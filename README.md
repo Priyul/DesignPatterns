@@ -19,6 +19,7 @@ Helpful resources:
 | Builder | [video](https://www.youtube.com/watch?v=jAv2ZrTBXso) | 1
 | Facade | [video](https://www.youtube.com/watch?v=B1Y8fcYrz5o) | 2
 | Bridge | [video](https://www.youtube.com/watch?v=F1YQ7YRjttI) | 6
+| Memento | [link](https://www.newthinktank.com/2012/10/memento-design-pattern-tutorial/) | 1
 
 
 next:
