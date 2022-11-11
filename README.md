@@ -15,13 +15,13 @@ Helpful resources:
 | Mediator | [video](https://www.youtube.com/watch?v=h8prqcBDIZ8) | 2
 | Command | [video](https://www.youtube.com/watch?v=9qA5kw8dcSU) | 2
 | Adapter | [link](https://www.geeksforgeeks.org/adapter-pattern/) | 6
+| Chain of Responsibility | [link](https://www.youtube.com/watch?v=vzCVO7B6wYw&t=526s) | 4
 
 
 next:
 > 1) memento, template, prototype, factory, abstract factory, strategy, state </br>
-> 2) chain of responsibility </br>
-> 3) builder </br>
-> 4) facade </br>
-> 5) bridge </br>
-> 6) iterator </br>
-> 7) interpreter </br>
+> 2) builder </br>
+> 3) facade </br>
+> 4) bridge </br>
+> 5) iterator </br>
+> 6) interpreter </br>
