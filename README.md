@@ -19,10 +19,9 @@ Helpful resources:
 
 next:
 > 1) memento, template, prototype, factory, abstract factory, strategy, state </br>
-> 2) adapter </br>
-> 3) chain of responsibility </br>
-> 4) builder </br>
+> 2) chain of responsibility </br>
+> 3) builder </br>
+> 4) facade </br>
 > 5) bridge </br>
-> 6) facade </br>
-> 7) iterator </br>
-> 8) interpreter </br>
+> 6) iterator </br>
+> 7) interpreter </br>
