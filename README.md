@@ -11,11 +11,11 @@ Helpful resources:
 | Flyweight | [video](https://www.youtube.com/watch?v=jAv2ZrTBXso) | 7
 
 next:
->> composite, memento, template
->> decorator, prototype, factory
->> observer, abstract factory, strategy
->> iterator, state, command
->> adapter, chain of responsibility
->> builder
->> bridge, facade
->> interpreter
+> 1) composite, memento, template </br>
+> 2) decorator, prototype, factory </br>
+> 3) observer, abstract factory, strategy </br>
+> 4) iterator, state, command </br>
+> 5) adapter, chain of responsibility </br>
+> 6) builder </br>
+> 7) bridge, facade </br>
+> 8) interpreter </br>
