@@ -15,7 +15,7 @@ Helpful resources:
 
 next:
 > 1) memento, template </br>
-> 2) decorator, prototype, factory </br>
+> 2) prototype, factory </br>
 > 3) observer, abstract factory, strategy </br>
 > 4) iterator, state, command </br>
 > 5) adapter, chain of responsibility </br>
