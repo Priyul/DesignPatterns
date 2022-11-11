@@ -1,2 +1,2 @@
 # DesignPatterns
-Design pattern implementations for COS 214
+Studying design pattern implementations for COS 214 :)
