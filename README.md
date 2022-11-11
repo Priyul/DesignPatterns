@@ -11,14 +11,17 @@ Helpful resources:
 | Flyweight | [video](https://www.youtube.com/watch?v=jAv2ZrTBXso) | 7
 | Composite | [video](https://www.youtube.com/watch?v=wQndxfmPCTc) | 7
 | Decorator | [video](https://www.youtube.com/watch?v=GCraGHx6gso) | 2
+| Observer | [video](https://www.youtube.com/watch?v=_BpmfnqjgzQ) | 2
 
 
 next:
-> 1) memento, template </br>
-> 2) prototype, factory </br>
-> 3) observer, abstract factory, strategy </br>
-> 4) iterator, state, command </br>
-> 5) adapter, chain of responsibility </br>
+> 1) memento, template, prototype, factory, abstract factory, strategy, state </br>
+> 2) iterator </br>
+> 3) command </br>
+> 4) adapter </br>
+> 5) chain of responsibility </br>
 > 6) builder </br>
-> 7) bridge, facade </br>
-> 8) interpreter </br>
+> 7) bridge </br>
+> 8) facade </br>
+> 9) iterator </br>
+> 10) interpreter </br>
