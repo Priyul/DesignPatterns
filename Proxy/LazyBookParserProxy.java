@@ -1,4 +1,4 @@
-package ProxyImproved;
+package Proxy;
 
 class LazyBookParserProxy implements IBookParser {
 

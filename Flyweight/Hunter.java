@@ -1,3 +1,5 @@
+package Flyweight;
+
 public class Hunter {
     public static void main(String[] args) {
         System.out.println("Shooting with cached bullets");

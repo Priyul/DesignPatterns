@@ -1,4 +1,4 @@
-
+package Flyweight;
 public final class Bullet {
     //since object is shared, unique state is a read-only state
     private final String bulletSize;

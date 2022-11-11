@@ -1,3 +1,7 @@
+package Flyweight;
+
+
+
 public enum BulletType {
     
     PISTOL_BULLET("Pistol Bullet"),

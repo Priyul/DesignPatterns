@@ -1,3 +1,4 @@
+package Flyweight;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -21,10 +22,12 @@ public class BulletFactory {
     public static Bullet getBulletFromCache(BulletType type) {
         if (bulletCache.containsKey(type)) {
             return bulletCache.get(type);
-        } 
-
-        Bullet bullet = getBulletByType(type);
-        bulletCache.put(type, bullet);
-        return bulletCache.get(type);
+        } else {
+            Bullet bullet = getBulletByType(type);
+            bulletCache.put(type, bullet);
+            // System.out.println(bulletCache.get(type));
+            return bulletCache.get(type);
+        }
+        
     }
 }

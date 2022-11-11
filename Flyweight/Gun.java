@@ -1,6 +1,8 @@
+package Flyweight;
+
 public abstract class Gun {
     
-    protected Bullet[] bullets;
+    public Bullet[] bullets;
     protected int capacity;
     private final BulletType bulletType;
 

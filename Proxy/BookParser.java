@@ -1,4 +1,4 @@
-package ProxyImproved;
+package Proxy;
 
 public class BookParser implements IBookParser {
     public BookParser(String book) {
