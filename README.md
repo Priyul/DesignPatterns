@@ -26,8 +26,7 @@ Helpful resources:
 | Abstract Factory | [link](https://www.newthinktank.com/2012/09/abstract-factory-design-pattern/) | 1
 | Strategy | [link](https://www.newthinktank.com/2012/08/strategy-design-pattern-tutorial/) | 2
 | State | [link](https://www.newthinktank.com/2012/10/state-design-pattern-tutorial/) | 2
-
+| Iterator | [video](https://www.youtube.com/watch?v=uNTNEfwYXhI&t=3905s) | 1
 
 next:
-> 1) iterator </br>
-> 2) interpreter </br>
+> 1) interpreter </br>

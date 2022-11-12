@@ -2,13 +2,18 @@ package Iterator;
 
 public class Main {
     public static void main(String[] args) {
-        IterableCollection collection = new CustomIterableCollection();
-        Iterator iter = collection.createIterator();
+        Item banana = new Item("Banana");
+        Item apple = new Item("Apple");
+        Item orange = new Item("Orange");
 
-        int i = 0;
-        while (iter.hasMore()) {
-            String result = iter.getNext();
-            System.out.println(++i + "> " + result);
+        Inventory inventory = new HandHeldInventory(banana, apple, orange);
+        InventoryIterator iter = new HandHeldIterator(inventory);
+
+        while (!iter.isDone()) {
+            System.out.println(iter.current().getName());
+                //do something
+            iter.next();
         }
+
     }
 }
